@@ -1,0 +1,16 @@
+#page-wrapper {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.nav {
+    float: right;
+    border-style: solid;
+}
+
+.content-wrapper {
+    margin-top: 55px;
+    border-style: solid;
+    display: inline-block;
+}
