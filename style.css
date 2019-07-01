@@ -14,3 +14,18 @@
     border-style: solid;
     display: inline-block;
 }
+
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+#description {
+    display: inline;
+}
+
+#main {
+    text-align: justify;
+}
