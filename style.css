@@ -10,3 +10,19 @@ img {
     float: left;
     margin-right: 15px;
 }
+
+.card {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.card-text,
+.card-title {
+    text-align: justify;
+}
+
+#myname {
+    float: left;
+    text-align: left;
+}
