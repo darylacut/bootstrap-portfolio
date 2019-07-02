@@ -44,4 +44,8 @@ img {
 .gamecard p {
     position: absolute;
     background-color: green;
+    bottom: 0px;
+    width: 93%;
+    text-align: center;
+    color: white;
 }
