@@ -31,3 +31,17 @@ img {
     text-align: left;
 }
 
+.gamelbl {
+    z-index: 100;
+}
+
+.gamecard {
+    position: relative;
+    margin: 10px 5px 10px 5px;
+}
+
+
+.gamecard p {
+    position: absolute;
+    background-color: green;
+}
